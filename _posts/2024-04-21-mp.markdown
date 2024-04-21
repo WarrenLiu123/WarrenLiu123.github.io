@@ -1,0 +1,12 @@
+---
+layout：        post
+title:          "阿哲的简介"
+author：        "warren"
+header-style:   text
+catalong:       true
+tages:
+      - AgathaChristie
+      - illation
+---
+
+我是一个热爱钢琴，热爱羽毛球，一个没啥事就喜欢看古诗文陶冶自己的自恋狂，也是一个还没初出茅庐的it小白。
